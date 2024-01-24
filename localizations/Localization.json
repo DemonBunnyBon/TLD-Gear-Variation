@@ -1,85 +1,103 @@
 {
- "GAMEPLAY_TrekSleepingBag": {
-  
-    "English": "Mountaineer's Sleeping Bag"
-},
- "GAMEPLAY_TrekSleepingBagDescription": {
-  
-   "English": "A high quality sleeping bag made to endure long journeys. Durable, warm, and protective. Comes with a string bag for easy carrying."
-},
- "GAMEPLAY_DeerSleepingBag": {
-  
-   "English": "Deerskin Sleeping Bag"
-},
- "GAMEPLAY_DeerSleepingBagDescription": {
-  
-   "English": "Warm, durable, and heavy as a deer. The smell might attract some predators."
-},
- "GAMEPLAY_StoneHammer": {
-  
-   "English": "Stone Hammer"
-},
- "GAMEPLAY_StoneHammerDescription": {
-  
-   "English": "A primitive version of a standard hammer. Less durable and not as effective, however a bit lighter."
-},
- "GAMEPLAY_BigChoppingAxe": {
-  
-   "English": "Splitting Axe"
-},
- "GAMEPLAY_BigChoppingAxeDescription": {
-  
-   "English": "A big durable axe used for splitting logs. It's certainly not the lightest you can choose from."
-},
- "GAMEPLAY_FlintKnife": {
-  
-   "English": "Flint Knife"
-},
- "GAMEPLAY_FlintKnifeDescription": {
-  
-   "English": "One of the oldest tools created by humanity. It's not that sharp or strong, but if they used it to survive, then maybe you can too."
-},
- "GAMEPLAY_BoneKnife": {
-  
-   "English": "Bone knife"
-},
- "GAMEPLAY_BoneKnifeDescription": {
-  
-   "English": "The sharpened end of the animal bone ensures practicality as a knife, but it won't last long."
-},
- "GAMEPLAY_CarpenterAxe": {
-  
-   "English": "Carpenter's Axe"
-},
- "GAMEPLAY_CarpenterAxeDescription": {
-  
-   "English": "An axe made specifically for carving into wood. Very sharp and larger than a regular hatchet. Whoever the owner was, they took good care of it."
-},
- "GAMEPLAY_SmallBirdStatueColor": {
-  
-   "English": "Little Bird Sculpture"
-},
- "GAMEPLAY_SmallBirdStatueColorDescription": {
-  
-   "English": "A small wooden statue resembling a colorful bird. Even though the paint is now fading, it's still beautiful in a way."
-},
- "GAMEPLAY_HacksawLight": {
-  
-   "English": "Craftsman's Hacksaw"
-},
- "GAMEPLAY_HacksawLightDescription": {
-  
-   "English": "A small light hacksaw used for cutting applications in need of a neater finish. It will take some time to slice through bigger things. The blade is easily swappable making repairs starightforward."
-},
-
-
-
-
-
-
-
-
-
-
-
-}
+    "GAMEPLAY_TrekSleepingBag": {
+     
+       "English": "Mountaineer's Sleeping Bag",
+       "Turkish": "Dağcının Uyku Tulumu"
+   },
+    "GAMEPLAY_TrekSleepingBagDescription": {
+     
+      "English": "A high quality sleeping bag made to endure long journeys. Durable, warm, and protective. Comes with a string bag for easy carrying.",
+      "Turkish": "Uzun yolculuklara dayanmak için üretilmiş yüksek kaliteli bir uyku tulumu. Dayanıklı, sıcak ve koruyucu. Kolay taşıma için ipli bir çanta ile birlikte gelir."
+   },
+    "GAMEPLAY_DeerSleepingBag": {
+     
+      "English": "Deerskin Sleeping Bag",
+      "Turkish": "Geyik Derisi Uyku Tulumu"
+   },
+    "GAMEPLAY_DeerSleepingBagDescription": {
+     
+      "English": "Warm, durable, and heavy as a deer. The smell might attract some predators.",
+      "Turkish": "Sıcak, dayanıklı ve bir geyik kadar ağır. Kokusu bazı yırtıcıları çekebilir."
+   },
+    "GAMEPLAY_StoneHammer": {
+     
+      "English": "Stone Hammer",
+      "Turkish": "Taş Çekiç"
+   },
+    "GAMEPLAY_StoneHammerDescription": {
+     
+      "English": "A primitive version of a standard hammer. Less durable and not as effective, however a bit lighter.",
+      "Turkish": "Standart bir çekicin ilkel bir versiyonu. Daha az dayanıklıdır ve o kadar etkili değildir, ancak biraz daha hafiftir."
+   },
+    "GAMEPLAY_BigChoppingAxe": {
+     
+      "English": "Splitting Axe",
+      "Turkish": "Bölme Baltası"
+   },
+    "GAMEPLAY_BigChoppingAxeDescription": {
+     
+      "English": "A big durable axe used for splitting logs. It's certainly not the lightest you can choose from.",
+      "Turkish": "Kütükleri bölmek için kullanılan büyük ve dayanıklı bir balta. Aralarından seçebileceğiniz en hafif balta olmadığı kesin."
+   },
+    "GAMEPLAY_FlintKnife": {
+     
+      "English": "Flint Knife",
+      "Turkish": "Çakmaktaşı Bıçak"
+   },
+    "GAMEPLAY_FlintKnifeDescription": {
+     
+      "English": "One of the oldest tools created by humanity. It's not that sharp or strong, but if they used it to survive, then maybe you can too.",
+      "Turkish": "İnsanlığın yarattığı en eski aletlerden biri. O kadar keskin ya da güçlü değil ama onlar hayatta kalmak için bunu kullandıysa, belki siz de kullanabilirsiniz."
+   },
+    "GAMEPLAY_BoneKnife": {
+     
+      "English": "Bone knife",
+      "Turkish": "Kemik Bıçağı"
+   },
+    "GAMEPLAY_BoneKnifeDescription": {
+     
+      "English": "The sharpened end of the animal bone ensures practicality as a knife, but it won't last long.",
+      "Turkish": "Hayvan kemiğinin keskin ucu bir bıçak olarak pratiklik sağlar, ancak uzun süre dayanmaz."
+   },
+    "GAMEPLAY_CarpenterAxe": {
+     
+      "English": "Carpenter's Axe",
+      "Turkish": "Marangozun Baltası"
+   },
+    "GAMEPLAY_CarpenterAxeDescription": {
+     
+      "English": "An axe made specifically for carving into wood. Very sharp and larger than a regular hatchet. Whoever the owner was, they took good care of it.",
+      "Turkish": "Özellikle ahşap oymak için yapılmış bir balta. Çok keskin ve normal bir baltadan daha büyük. Sahibi her kimse, ona iyi bakmış."
+   },
+    "GAMEPLAY_SmallBirdStatueColor": {
+     
+      "English": "Little Bird Sculpture",
+      "Turkish": "Küçük Kuş Heykeli"
+   },
+    "GAMEPLAY_SmallBirdStatueColorDescription": {
+     
+      "English": "A small wooden statue resembling a colorful bird. Even though the paint is now fading, it's still beautiful in a way.",
+      "Turkish": "Renkli bir kuşu andıran küçük ahşap bir heykel. Boyası artık solmuş olsa da, bir şekilde hala güzel."
+   },
+    "GAMEPLAY_HacksawLight": {
+     
+      "English": "Craftsman's Hacksaw",
+      "Turkish": "Zanaatkârın Demir Testeresi"
+   },
+    "GAMEPLAY_HacksawLightDescription": {
+     
+      "English": "A small light hacksaw used for cutting applications in need of a neater finish. It will take some time to slice through bigger things. The blade is easily swappable making repairs starightforward.",
+      "Turkish": "Daha düzgün bir yüzey gerektiren kesme uygulamaları için kullanılan küçük, hafif bir demir testeresi. Daha büyük şeyleri kesmek biraz zaman alacaktır. Bıçağı kolayca değiştirilebilir ve onarımları kolaylaştırır."
+   },
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   }
